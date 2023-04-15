@@ -1,0 +1,15 @@
+C:\Users\Alexey\RiderProjects\MobilePhone\MobilePhone\bin\Debug\net7.0\MobilePhone.exe
+C:\Users\Alexey\RiderProjects\MobilePhone\MobilePhone\bin\Debug\net7.0\MobilePhone.deps.json
+C:\Users\Alexey\RiderProjects\MobilePhone\MobilePhone\bin\Debug\net7.0\MobilePhone.runtimeconfig.json
+C:\Users\Alexey\RiderProjects\MobilePhone\MobilePhone\bin\Debug\net7.0\MobilePhone.dll
+C:\Users\Alexey\RiderProjects\MobilePhone\MobilePhone\bin\Debug\net7.0\MobilePhone.pdb
+C:\Users\Alexey\RiderProjects\MobilePhone\MobilePhone\obj\Debug\net7.0\MobilePhone.csproj.AssemblyReference.cache
+C:\Users\Alexey\RiderProjects\MobilePhone\MobilePhone\obj\Debug\net7.0\MobilePhone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexey\RiderProjects\MobilePhone\MobilePhone\obj\Debug\net7.0\MobilePhone.AssemblyInfoInputs.cache
+C:\Users\Alexey\RiderProjects\MobilePhone\MobilePhone\obj\Debug\net7.0\MobilePhone.AssemblyInfo.cs
+C:\Users\Alexey\RiderProjects\MobilePhone\MobilePhone\obj\Debug\net7.0\MobilePhone.csproj.CoreCompileInputs.cache
+C:\Users\Alexey\RiderProjects\MobilePhone\MobilePhone\obj\Debug\net7.0\MobilePhone.dll
+C:\Users\Alexey\RiderProjects\MobilePhone\MobilePhone\obj\Debug\net7.0\refint\MobilePhone.dll
+C:\Users\Alexey\RiderProjects\MobilePhone\MobilePhone\obj\Debug\net7.0\MobilePhone.pdb
+C:\Users\Alexey\RiderProjects\MobilePhone\MobilePhone\obj\Debug\net7.0\MobilePhone.genruntimeconfig.cache
+C:\Users\Alexey\RiderProjects\MobilePhone\MobilePhone\obj\Debug\net7.0\ref\MobilePhone.dll
